@@ -1,0 +1,7 @@
+File organized successfully in:
+C:\Users\krish\Python\Modules\OS\Mini_Folder_Organizer
+Subfolders created:
+-Images
+-Documents
+-Videos
+-Data
